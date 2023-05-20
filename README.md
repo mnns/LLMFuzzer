@@ -6,9 +6,9 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Stars](https://img.shields.io/github/stars/LLMFuzzer/LLMFuzzer)
-![Forks](https://img.shields.io/github/forks/LLMFuzzer/LLMFuzzer)
-![Issues](https://img.shields.io/github/issues/LLMFuzzer/LLMFuzzer)
+![Stars](https://img.shields.io/github/stars/mnns/LLMFuzzer)
+![Forks](https://img.shields.io/github/forks/mnns/LLMFuzzer)
+![Issues](https://img.shields.io/github/issues/mnns/LLMFuzzer)
 
 </div>
 
