@@ -21,7 +21,7 @@ If you're a security enthusiast, a pentester, or a cybersec researcher who loves
 # 🌟 Features
 
 - Robust fuzzing for LLMs 🧪
-- API integration testing 🛠️
+- LLM API integration testing 🛠️
 - Wide range of fuzzing strategies 🌀
 - Modular architecture for easy extendability 📚
 
