@@ -14,11 +14,11 @@
 
 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥
 
-### 🎯 Who is this for?
+# 🎯 Who is this for?
 
 If you're a security enthusiast, a pentester, or a cybersec researcher who loves to find and exploit vulnerabilities in AI systems, LLMFuzzer is the perfect tool for you. It's built to make your testing process streamlined and efficient. 🕵️‍♀️
 
-## 🌟 Features
+# 🌟 Features
 
 - Robust fuzzing for LLMs 🧪
 - API integration testing 🛠️
@@ -47,15 +47,15 @@ pip install -r requirements.txt
 python main.py
 ```
 
-# 📚 Documentation
+## 📚 Documentation
 We are working on full documentation. It will cover detailed information about the architecture, different fuzzing strategies, examples, and how to extend the tool.
 
-# 🤝 Contributing
+## 🤝 Contributing
 We welcome all contributors who are passionate about improving LLMFuzzer. See our contributing guidelines for ways to get started. 🤗
 
-# 💼 License
+## 💼 License
 LLMFuzzer is licensed under the MIT License. See the LICENSE file for more details.
 
-# 🎩 Acknowledgments
+## 🎩 Acknowledgments
 LLMFuzzer couldn't exist without the community. We appreciate all our contributors and supporters. Let's make AI safer together! 💖
 
