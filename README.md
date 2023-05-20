@@ -4,5 +4,5 @@
 
 # 🤔 What is this?
 LLMFuzzer allows you to scan your LLM integration in your application for known LLM vulnerabilities.
-We are constantly adding attacks (check **/attacks** directory) and improving detection techniques.
+<br>We are constantly adding attacks (check **/attacks** directory) and improving detection techniques.
 
