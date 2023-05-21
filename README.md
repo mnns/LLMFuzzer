@@ -29,7 +29,7 @@ If you're a security enthusiast, a pentester, or a cybersec researcher who loves
 
 1. Clone the repo
 ```bash
-git clone https://github.com/LLMFuzzer/LLMFuzzer.git
+git clone https://github.com/mnns/LLMFuzzer.git
 ```
 
 2. Navigate to the project directory
