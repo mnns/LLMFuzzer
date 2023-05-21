@@ -10,6 +10,10 @@
 ![Forks](https://img.shields.io/github/forks/mnns/LLMFuzzer)
 ![Issues](https://img.shields.io/github/issues/mnns/LLMFuzzer)
 
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 </div>
 
 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥
