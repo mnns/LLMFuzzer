@@ -42,7 +42,19 @@ cd LLMFuzzer
 pip install -r requirements.txt
 ```
 
-4. Run LLMFuzzer
+4. Edit **llmfuzzer.cfg** with your LLM API endpoint (LLMFuzzer -> Your Application -> LLM)
+```bash
+Connection: 
+  Type: HTTP-API
+  Url: "http://localhost:3000/chat" # Your LLM API
+  Content: JSON
+  Query-Attribute: "query" # Your JSON query attribute
+  Output-Attribute: "answer" # Your JSON response attribute
+  Headers: {'enwiki_session': '17ab96bd8ffbe8ca58a78657a918558'} # Add HTTP Headers if needed 
+  Cookie: {'enwiki_session': '17ab96bd8ffbe8ca58a78657a918558'} # Add Cookies if needed
+```
+
+5. Run LLMFuzzer
 ```bash
 python main.py
 ```
