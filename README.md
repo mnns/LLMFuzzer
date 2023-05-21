@@ -18,6 +18,8 @@ LLMFuzzer is the first open-source fuzzing framework specifically designed for L
 
 If you're a security enthusiast, a pentester, or a cybersec researcher who loves to find and exploit vulnerabilities in AI systems, LLMFuzzer is the perfect tool for you. It's built to make your testing process streamlined and efficient. 🕵️‍♀️
 
+![Untitled](https://github.com/mnns/LLMFuzzer/assets/1796080/a143897d-383c-4ed9-8b2f-65f4cdc5aa63)
+
 # 🌟 Features
 
 - Robust fuzzing for LLMs 🧪
