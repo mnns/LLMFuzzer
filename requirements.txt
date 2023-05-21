@@ -1,0 +1,8 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+idna==3.4
+pyfiglet==0.8.post1
+PyYAML==6.0
+requests==2.30.0
+termcolor==2.3.0
+urllib3==2.0.2
