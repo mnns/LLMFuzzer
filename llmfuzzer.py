@@ -26,7 +26,7 @@ def printMotd():
     print()
 
 class LLMfuzzer:
-
+ 
     def __init__(self, configPath):
         self.configPath = configPath
         print('! Loading config from: ' + configPath)
