@@ -68,8 +68,9 @@ python main.py
 ## 🔥 Roadmap
 * Adding more attacks
 * HTML Report as output
+* Multiple Connectors (JSON-POST, RAW-POST, QUERY-GET)
 * Multiple Comparers
-* Connecting via Proxy
+* Proxy Support
 * Dual-LLM (Side LLM observation)
 * Autonomous Attack Mode
 
