@@ -65,6 +65,14 @@ Connection:
 python main.py
 ```
 
+## 🔥 Roadmap
+* Adding more attacks
+* HTML Report as output
+* Multiple Comparers
+* Connecting via Proxy
+* Dual-LLM (Side LLM observation)
+* Autonomous Attack Mode
+
 ## 📚 Documentation
 We are working on full documentation. It will cover detailed information about the architecture, different fuzzing strategies, examples, and how to extend the tool.
 
