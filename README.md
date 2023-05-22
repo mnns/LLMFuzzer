@@ -18,13 +18,13 @@
 
 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥
 
-# 🎯 Who is this for?
+## 🎯 Who is this for?
 
 If you're a security enthusiast, a pentester, or a cybersec researcher who loves to find and exploit vulnerabilities in AI systems, LLMFuzzer is the perfect tool for you. It's built to make your testing process streamlined and efficient. 🕵️‍♀️
 
 ![Untitled](https://github.com/mnns/LLMFuzzer/assets/1796080/a143897d-383c-4ed9-8b2f-65f4cdc5aa63)
 
-# 🌟 Features
+## 🌟 Features
 
 - Robust fuzzing for LLMs 🧪
 - LLM API integration testing 🛠️
