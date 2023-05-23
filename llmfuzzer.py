@@ -85,8 +85,6 @@ class LLMfuzzer:
                 print('Connection error, can''t continue evaluation.')
                 raise SystemExit(e)
         
-
-        
     def runAttacks(self):
         # Fetch all chosen tests from config
         for attack in self.config['Attacks']:
