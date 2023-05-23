@@ -31,6 +31,15 @@ If you're a security enthusiast, a pentester, or a cybersec researcher who loves
 - Wide range of fuzzing strategies 🌀
 - Modular architecture for easy extendability 📚
 
+## 🔥 Roadmap
+* Adding more attacks
+* HTML Report as output
+* Multiple Connectors (JSON-POST, RAW-POST, QUERY-GET)
+* Multiple Comparers
+* Proxy Support
+* Dual-LLM (Side LLM observation)
+* Autonomous Attack Mode
+
 ## 🚀 Get Started
 
 1. Clone the repo
@@ -64,15 +73,6 @@ Connection:
 ```bash
 python main.py
 ```
-
-## 🔥 Roadmap
-* Adding more attacks
-* HTML Report as output
-* Multiple Connectors (JSON-POST, RAW-POST, QUERY-GET)
-* Multiple Comparers
-* Proxy Support
-* Dual-LLM (Side LLM observation)
-* Autonomous Attack Mode
 
 ## 📚 Documentation
 We are working on full documentation. It will cover detailed information about the architecture, different fuzzing strategies, examples, and how to extend the tool.
