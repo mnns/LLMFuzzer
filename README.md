@@ -16,6 +16,14 @@
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 </div>
 
+----------------------------------------------------------------
+
+## Project Status: Unmaintained
+
+This project is no longer actively maintained. You are welcome to fork and continue its development on your own. Thank you for your interest and support.
+
+----------------------------------------------------------------
+
 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥
 
 ## 🎯 Who is this for?
